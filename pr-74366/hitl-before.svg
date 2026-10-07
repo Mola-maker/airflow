@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="918" height="147" viewBox="0 0 918 147">
+<rect width="918" height="147" fill="#ffffff"/>
+<text x="42" y="60" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="500" fill="#18181b">Sollen die folgenden Operationen durchgeführt werden?</text>
+<text x="42" y="96" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="400" fill="#18181b">[Dry-Run Ergebnis] Delete: /mnt/x/y/z/data/test.gdb Delete: /mnt/x/y/z/data/test2.gdb Delete:</text>
+<text x="42" y="123" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="400" fill="#18181b">/mnt/x/y/z/data/test3.gdb Delete: /mnt/x/y/z/data/test4.gdb</text>
+</svg>
